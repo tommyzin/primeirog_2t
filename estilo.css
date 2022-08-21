@@ -3,25 +3,7 @@ body {
 }
 h1 {
   text-align: center;
-}
-.caixa1 {
-  position: absolute;
-  background: green;
-  color: #FFFFFF;
-  width: 200px;
-  height: 200px;
-  right: 0;
-  bottom: 0;
-}
-.caixa2 {
-  position: absolute;
-  background: green;
-  color: #FFFFFF;
-  width: 200px;
-  height: 200px;
-  right: 0;
-  bottom: 5;
-}
+  
 .menuPrincipal {
   position: absolute;
   top: 0;
@@ -53,10 +35,10 @@ li a:hover {
   background: rgb(199, 147, 70);
   color: black;
 }
-#ferrari {
+#verão {
   width: 15%;
 }
-.caixaferrari {
+.caixaverão {
   position: absolute;
   top: 45px;
   left: 0;
