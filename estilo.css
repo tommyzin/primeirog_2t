@@ -91,7 +91,7 @@ li a:hover {
 
 .rodape {
   position: relative;
-  width: 100%;
+  width: 20%;
   display: flex;
   padding-top: 50px;
   justify-content: center;
@@ -113,12 +113,4 @@ li a:hover {
    top: 45px;
    width: 95%;
    padding: 5px;
-}
-.logoGastao{
-  position: absolute;
-  width: 120px;
-  height: 100px;
-  top: 0;
-  right: 0;
-  z-index: 999;
 }
