@@ -88,10 +88,30 @@ li a:hover {
   background: rgb(163, 224, 216);
   color: black;
 }
-
+#aviao {
+   width: 20%;
+}
+#aviao:hover{
+   width: 22%;
+}
+.caixaAviao {
+   position: absolute;
+   top: 50px;
+   left: 0;
+   width: 90%;
+   height: 150px;
+   background:rgb(218, 219, 150);
+   margin: 20px;
+   border-color: rgb(43, 226, 104);
+   border-width: 20px;
+   border-style: solid;
+   padding: 20px;
+   display: flex;
+   justify-content: center;
+}
 .rodape {
   position: relative;
-  width: 20%;
+  width: 100%;
   display: flex;
   padding-top: 50px;
   justify-content: center;
